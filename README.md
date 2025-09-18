@@ -1,4 +1,4 @@
-# Valentine Surprise
+sinh nhật vui vẻ# Valentine Surprise
 
 ## 💌 About the Project
 
@@ -12,8 +12,8 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 
 ## 📂 Project Structure
 ```
-📁 project-folder
-│── index.html    # Main HTML file
+📁 -folder
+│── index.html    # Mainproject HTML file
 │── style.css     # Stylesheet for design and animations
 │── script.js     # JavaScript file for interaction
 ```
@@ -21,7 +21,7 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/macedoflp/valentine.git
+   git clone git clone https://github.com/macedoflp/valentine.git
    ```
 2. Open `index.html` in your browser.
 3. Click the **Open** button to reveal the message!
