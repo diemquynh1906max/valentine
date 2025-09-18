@@ -14,17 +14,18 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 ```
 📁 project-folder
 │── index.html    # Main HTML file
-│── style.css     # Stylesheet for design and animations
+│── style.css     # Stylesheets for design and animations flower
 │── script.js     # JavaScript file for interaction
 ```
 
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/macedoflp/valentine.git
+   git clone https://github.com/magit clone https://github.com/macedoflp/valentine.git open on fivecedoflp/valentine.git open on five
    ```
-2. Open `index.html` in your browser.
-3. Click the **Open** button to reveal the message!
+2. Open `happy birthday
+3. ` in your browser.
+4. Click the * on 1* button to reveal the message!
 
 
 ## 🔧 Technologies Used
@@ -35,5 +36,5 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 ## 📝 License
 This project is open-source and available under the MIT License.
 
-💖 Made with love for Valentine's Day!
+💖 Made with love for s Day!
 
